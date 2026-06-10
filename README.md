@@ -17,7 +17,7 @@
 
 ## 🚀 About Me
 
-- 🎓 **ECE @ RUET** — Series 23
+- 🎓 **Btech: Electrical and Computer Engineering**
 - 💡 Building real-world software from low-level C++ to full-stack MERN apps
 - 🏆 Led **Team TheMatrix** at HackSpark 2026 — shipped **RentPi**
 - 🧩 Competitive programmer with team **Bitwise_Vibers**
