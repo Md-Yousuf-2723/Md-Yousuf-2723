@@ -5,6 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-yousuf-368a92354/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@MrNobodyOfflica)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdyousuf2723@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Yousuf2723/)
 
 </div>
 
@@ -47,8 +48,9 @@
 
 📧 [mdyousuf2723@gmail.com](mailto:mdyousuf2723@gmail.com)  
 💼 [linkedin.com/in/md-yousuf](https://www.linkedin.com/in/md-yousuf-368a92354/)  
-📺 [@MrNobodyOfflica](https://www.youtube.com/@MrNobodyOfflica)
-💻 [Codeforces — Yousuf2723](https://codeforces.com/profile/Yousuf2723)
+📺 [@MrNobodyOfflica](https://www.youtube.com/@MrNobodyOfflica)  
+💻 [Codeforces — Yousuf2723](https://codeforces.com/profile/Yousuf2723)  
+🧠 [LeetCode — Yousuf2723](https://leetcode.com/u/Yousuf2723/)
 
 </td>
 </tr>
@@ -67,15 +69,6 @@
 | 🏆 **Codeforces_Solution** | Competitive programming solutions from Codeforces contests | `C++` |
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Yousuf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Md-Yousuf-2723&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Yousuf-2723&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-</div>
 
 ---
 
