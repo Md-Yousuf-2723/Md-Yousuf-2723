@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-- 🎓 **B.Tech in Electrical & Computer Engineering** — RUET *(CGPA: 3.63/4.0)*
+- 🎓 **B.Tech in Electrical & Computer Engineering** — RUET
 - 💡 Passionate about building **real-world software** from low-level logic to full-stack systems
 - 🏆 Hackathon builder — shipped **RentPi**, a microservice-based rental platform at HackSpark
 - 📱 Currently crafting **Aethel** — a privacy-first productivity app in Flutter/Dart
