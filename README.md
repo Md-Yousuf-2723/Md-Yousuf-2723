@@ -47,7 +47,8 @@
 
 📧 [mdyousuf2723@gmail.com](mailto:mdyousuf2723@gmail.com)  
 💼 [linkedin.com/in/md-yousuf](https://www.linkedin.com/in/md-yousuf-368a92354/)  
-📺 [@MrNobodyOfflica](https://www.youtube.com/@MrNobodyOfflica)  
+📺 [@MrNobodyOfflica](https://www.youtube.com/@MrNobodyOfflica)
+🧑🏻‍💻 [LeetCode - Yousuf2723](https://leetcode.com/profile/Yousuf2723)
 💻 [Codeforces — Yousuf2723](https://codeforces.com/profile/Yousuf2723)
 
 </td>
