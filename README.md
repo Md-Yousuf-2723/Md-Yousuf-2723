@@ -11,7 +11,7 @@
 <a href="mailto:mdyousuf2723@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://leetcode.com/u/Yousuf2723/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 </td>
-<td><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzN5NDNidGYzMHVrczMwN3BicWdjYTQxdm1kemwzbzhxYzc2aTJnMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" width="140" /></td>
+<td><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGNpbTk5YWV1czlzdXFlb2xsMml3amt2ejc3MWE3ZmFleTV3Znl6dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AOSwwqVjNZlDO/giphy.gif" width="140" /></td>
 </tr>
 </table>
 
