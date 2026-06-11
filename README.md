@@ -22,7 +22,6 @@
 - 🏆 Led **Team TheMatrix** at HackSpark 2026 — shipped **RentPi**
 - 🧩 Competitive programmer with team **Bitwise_Vibers**
 - 🛡️ Member of **RUET Cyber Security Club (RCSC)**
-- 📈 Pursuing certifications from Google, Meta, Microsoft & Harvard CS50
 - 🎬 Photo editor & YouTube content creator — *The Matrix*
 
 </td>
