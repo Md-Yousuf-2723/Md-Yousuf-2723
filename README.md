@@ -119,7 +119,7 @@ Competitive programming solutions from Codeforces contests. Handle: <strong>Yous
 <tr>
 <td align="left" width="25%"><img src="https://komarev.com/ghpvc/?username=Md-Yousuf-2723&color=blueviolet&style=flat-square&label=Profile+Views" /></td>
 <td align="center" width="50%"><b>The best code is the one that solves a real problem.</b></td>
-<td align="right" width="25%"><a href="./LICENSE"><img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" /></a> © 2026 Md. Yousuf</td>
+<td align="right" width="25%"><a href="./LICENSE"><img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" /></a> © 2026 Md-Yousuf-2723</td>
 </tr>
 </table>
 </div>
