@@ -23,18 +23,6 @@
 <tr>
 <td width="55%" valign="top">
 
-## 🚀 About Me
-
-- 🎓 **Btech: Electrical and Computer Engineering**
-- 💡 Building real-world software from low-level C++ to full-stack MERN apps
-- 🏆 Led **Team TheMatrix** at HackSpark 2026 — shipped **RentPi**
-- 🧩 Competitive programmer with team **Bitwise_Vibers**
-- 🛡️ Member of **RUET Cyber Security Club (RCSC)**
-- 🎬 Photo editor & YouTube content creator — *The Matrix*
-
-</td>
-<td width="45%" valign="top">
-
 ## 🛠️ Tech Stack
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
@@ -51,6 +39,18 @@
 
 ---
 
+## 🚀 About Me
+
+- 🎓 **Btech: Electrical and Computer Engineering**
+- 💡 Building real-world software from low-level C++ to full-stack MERN apps
+- 🏆 Led **Team TheMatrix** at HackSpark 2026 — shipped **RentPi**
+- 🧩 Competitive programmer with team **Bitwise_Vibers**
+- 🛡️ Member of **RUET Cyber Security Club (RCSC)**
+- 🎬 Photo editor & YouTube content creator — *The Matrix*
+
+</td>
+<td width="45%" valign="top">
+
 ## 🔗 Find Me
 
 📧 [mdyousuf2723@gmail.com](mailto:mdyousuf2723@gmail.com)  
@@ -59,21 +59,59 @@
 💻 [Codeforces — Yousuf2723](https://codeforces.com/profile/Yousuf2723)  
 🧠 [LeetCode — Yousuf2723](https://leetcode.com/u/Yousuf2723/)
 
+---
+
+## 🔥 Projects
+
+<details>
+<summary>⚡ <strong>HackSpark / RentPi</strong></summary>
+<br>
+Microservice-based rental platform built at HackSpark 2026 with Team TheMatrix.  
+<br><br>
+<code>JavaScript</code> · <code>Node.js</code> · <code>Docker</code> · <code>API Gateway</code>
+<br><br>
+🔗 <a href="https://github.com/Md-Yousuf-2723/HackSpark">View Repo</a>
+</details>
+
+<details>
+<summary>🛍️ <strong>Oxidore</strong></summary>
+<br>
+Full-stack e-commerce platform managing a live jewelry & accessories business.  
+<br><br>
+<code>MongoDB</code> · <code>Express</code> · <code>React</code> · <code>Node.js</code>
+</details>
+
+<details>
+<summary>🔌 <strong>Vending Machine Sim</strong></summary>
+<br>
+Digital techniques project featuring low-level FSM circuit design with a full LaTeX technical report.  
+<br><br>
+<code>Logisim</code> · <code>LaTeX</code>
+</details>
+
+<details>
+<summary>🧠 <strong>LeetCode Solutions</strong></summary>
+<br>
+Complete LeetCode problem solutions with explanations and helpful materials. Handle: <strong>Yousuf2723</strong>  
+<br><br>
+<code>C++</code> · <code>Java</code>  
+<br><br>
+🔗 <a href="https://github.com/Md-Yousuf-2723/LeetCode_Solution">View Repo</a>
+</details>
+
+<details>
+<summary>🏆 <strong>Codeforces Solutions</strong></summary>
+<br>
+Competitive programming solutions from Codeforces contests. Handle: <strong>Yousuf2723</strong>  
+<br><br>
+<code>C++</code>  
+<br><br>
+🔗 <a href="https://github.com/Md-Yousuf-2723/Codeforces_Solution">View Repo</a>
+</details>
+
 </td>
 </tr>
 </table>
-
----
-
-## 🔥 Highlighted Projects
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| ⚡ **HackSpark / RentPi** | Microservice-based rental platform built at HackSpark 2026 | `JavaScript` · `Node.js` · `Docker` |
-| 🛍️ **Oxidore** | Full-stack e-commerce platform managing jewelry & accessories business | `MERN Stack` |
-| 🔌 **Vending Machine Sim** | Digital techniques project with low-level circuit design & LaTeX report | `Logisim` · `LaTeX` |
-| 🧠 **LeetCode_Solution** | Complete LeetCode solutions with explanations & helpful materials | `C++` · `Java` |
-| 🏆 **Codeforces_Solution** | Competitive programming solutions from Codeforces contests | `C++` |
 
 ---
 
