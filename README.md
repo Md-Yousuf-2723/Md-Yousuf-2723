@@ -1,6 +1,21 @@
 <div align="center">
 
-# *I don't just write code — I engineer experiences.*
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td width="160" align="center" valign="middle">
+<img src="https://media2.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MWpsMTYwNTR3bTN6Y2s0OWxiYTZndXRlbGM3bXR3aTRrYmtjZTltOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HOiAe2wA8RftbE59dc/giphy.webp" width="140" />
+</td>
+<td align="center" valign="middle">
+
+# *I don't just write code*
+# *I engineer experiences.*
+
+</td>
+<td width="160" align="center" valign="middle">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnN4eTV1anF1a3dqaTBrN3c4ZTZ1ZnFvNW40ZWljaHphYmlnMHBqNSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/AOSwwqVjNZlDO/200.webp" width="140" />
+</td>
+</tr>
+</table>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-yousuf-368a92354/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@MrNobodyOfflica)
@@ -66,8 +81,6 @@
 | 🔌 **Vending Machine Sim** | Digital techniques project with low-level circuit design & LaTeX report | `Logisim` · `LaTeX` |
 | 🧠 **LeetCode_Solution** | Complete LeetCode solutions with explanations & helpful materials | `C++` · `Java` |
 | 🏆 **Codeforces_Solution** | Competitive programming solutions from Codeforces contests | `C++` |
-
----
 
 ---
 
