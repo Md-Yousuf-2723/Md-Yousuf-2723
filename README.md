@@ -46,7 +46,7 @@
 - 🏆 Led **Team TheMatrix** at HackSpark 2026 — shipped **RentPi**
 - 🧩 Competitive programmer with team **Bitwise_Vibers**
 - 🛡️ Member of **RUET Cyber Security Club (RCSC)**
-- 🎬 Photo editor & YouTube content creator — *The Matrix*
+- 🎬 Photo editor & YouTube content creator — *Mr. Nobody*
 
 </td>
 <td width="45%" valign="top">
