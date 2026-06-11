@@ -115,10 +115,10 @@ Competitive programming solutions from Codeforces contests. Handle: <strong>Yous
 
 ---
 
-<div align="center">
-
-*"The best code is the one that solves a real problem."*
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Md-Yousuf-2723&color=blueviolet&style=for-the-badge)
-
-</div>
+<table border="0" cellspacing="0" cellpadding="8" width="100%">
+<tr>
+<td align="left" width="25%"><img src="https://komarev.com/ghpvc/?username=Md-Yousuf-2723&color=blueviolet&style=flat-square&label=Profile+Views" /></td>
+<td align="center" width="50%"><em>"The best code is the one that solves a real problem."</em></td>
+<td align="right" width="25%"><a href="./LICENSE"><img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" /></a> © 2025 Md. Yousuf</td>
+</tr>
+</table>
