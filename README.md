@@ -4,12 +4,15 @@
 <tr>
 <td><img src="https://media2.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MWpsMTYwNTR3bTN6Y2s0OWxiYTZndXRlbGM3bXR3aTRrYmtjZTltOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HOiAe2wA8RftbE59dc/giphy.webp" width="140" /></td>
 <td align="center">
-<h2><em>I don't just write code — I engineer experiences.</em></h2>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Hey%2C+I'm+Md.+Yousuf+%F0%9F%91%8B;I+don't+just+write+code+%E2%80%94+I+engineer+experiences.;C%2B%2B+%7C+JavaScript+%7C+Node.js;Turning+ideas+into+real-world+software.;The+best+code+solves+a+real+problem.)](https://git.io/typing-svg)
+
 <br>
 <a href="https://www.linkedin.com/in/md-yousuf-368a92354/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.youtube.com/@MrNobodyOfflical"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 <a href="mailto:mdyousuf2723@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://leetcode.com/u/Yousuf2723/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+
 </td>
 <td><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGNpbTk5YWV1czlzdXFlb2xsMml3amt2ejc3MWE3ZmFleTV3Znl6dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AOSwwqVjNZlDO/giphy.gif" width="140" /></td>
 </tr>
@@ -114,6 +117,7 @@ Competitive programming solutions from Codeforces contests. Handle: <strong>Yous
 </table>
 
 ---
+
 <div align="center">
 <table border="0" cellspacing="0" cellpadding="8" width="100%">
 <tr>
