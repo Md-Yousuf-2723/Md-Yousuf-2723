@@ -77,19 +77,12 @@ Microservice-based rental platform built at HackSpark 2026 with Team TheMatrix.
 </details>
 
 <details>
-<summary>🛍️ <strong>Oxidore</strong></summary>
-<br>
-Full-stack e-commerce platform managing a live jewelry & accessories business.  
-<br><br>
-<code>MongoDB</code> · <code>Express</code> · <code>React</code> · <code>Node.js</code>
-</details>
-
-<details>
 <summary>🔌 <strong>Vending Machine Sim</strong></summary>
 <br>
 Digital techniques project featuring low-level FSM circuit design with a full LaTeX technical report.  
 <br><br>
 <code>Logisim</code> · <code>LaTeX</code>
+🔗 <a href="https://github.com/Md-Yousuf-2723/Vending_Machine">View Repo</a>
 </details>
 
 <details>
